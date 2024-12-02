@@ -1,0 +1,22 @@
+/mnt/c/Users/nsola/Documents/prev/CSCE 441/SkeletonCode6/build/CMakeFiles/Assignment6.dir
+/mnt/c/Users/nsola/Documents/prev/CSCE 441/SkeletonCode6/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nsola/Documents/prev/CSCE 441/SkeletonCode6/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nsola/Documents/prev/CSCE 441/SkeletonCode6/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/nsola/Documents/prev/CSCE 441/SkeletonCode6/build/CMakeFiles/install.dir
+/mnt/c/Users/nsola/Documents/prev/CSCE 441/SkeletonCode6/build/CMakeFiles/install/local.dir
+/mnt/c/Users/nsola/Documents/prev/CSCE 441/SkeletonCode6/build/CMakeFiles/install/strip.dir
+/root/graphics/glfw-3.3.8/debug/CMakeFiles/uninstall.dir
+/root/graphics/glfw-3.3.8/debug/CMakeFiles/edit_cache.dir
+/root/graphics/glfw-3.3.8/debug/CMakeFiles/rebuild_cache.dir
+/root/graphics/glfw-3.3.8/debug/CMakeFiles/list_install_components.dir
+/root/graphics/glfw-3.3.8/debug/CMakeFiles/install.dir
+/root/graphics/glfw-3.3.8/debug/CMakeFiles/install/local.dir
+/root/graphics/glfw-3.3.8/debug/CMakeFiles/install/strip.dir
+/root/graphics/glfw-3.3.8/debug/src/CMakeFiles/update_mappings.dir
+/root/graphics/glfw-3.3.8/debug/src/CMakeFiles/glfw.dir
+/root/graphics/glfw-3.3.8/debug/src/CMakeFiles/edit_cache.dir
+/root/graphics/glfw-3.3.8/debug/src/CMakeFiles/rebuild_cache.dir
+/root/graphics/glfw-3.3.8/debug/src/CMakeFiles/list_install_components.dir
+/root/graphics/glfw-3.3.8/debug/src/CMakeFiles/install.dir
+/root/graphics/glfw-3.3.8/debug/src/CMakeFiles/install/local.dir
+/root/graphics/glfw-3.3.8/debug/src/CMakeFiles/install/strip.dir
